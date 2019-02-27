@@ -1,5 +1,6 @@
 # This is sample comments 
 folder
+junk1.php
 *.zip
 *.gz
 log/*.log
